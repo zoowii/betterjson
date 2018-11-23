@@ -1,0 +1,10 @@
+/.idea
+/*.iml
+/build
+/dist
+/log
+/out
+/*.log
+*.pyc
+*~
+
